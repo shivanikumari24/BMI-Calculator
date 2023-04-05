@@ -14,4 +14,4 @@ The challenge is to create a function that takes weight and height as inputs and
 NOTE: You do not need any alerts or prompts or console logs. You code should only contain the function, the result has to be returned by the function. You do not need to call the function.
 
 
-Hint: Math.round()
+Hint: Math.round() 
