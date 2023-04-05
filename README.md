@@ -7,6 +7,7 @@ The BMI(Body Mass Index) is a way of estimating the amount of body fat. It's use
 You can calculate it using the formula below, where weight divided by height squared.
 
 
+
 BMI Formula :-
 
 The challenge is to create a function that takes weight and height as inputs and gives the calculated BMI value as an output. The output should be rounded to the nearest whole number.
